@@ -1,0 +1,45 @@
+body{
+    background-image:s.jpeg;
+}
+
+
+form{
+    background-color: rgb(213, 244, 188);
+    margin: 0px 190px 0px 190px;
+    border-radius: 30px;
+    padding: 10px;
+    background-image:url('s.jpeg');
+
+}
+form:hover{
+    background-color: greenyellow;
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:aqua (237, 245, 168);
+}
+select{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:white;(168, 210, 245);
+}
+textarea{
+    border-radius: 5px;
+    background-color:black;(237, 245, 168);
+}
+input:hover{
+    background-color: red;(213, 244, 188);
+}
+select:hover{
+    background-color: blue;(213, 244, 188);
+}
+textarea:hover{
+    background-color: purple;(213, 244, 188);
+}
+button{
+    background-color: red;
+}
+button:hover{
+    background-color:violet;
+}
